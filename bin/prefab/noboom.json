@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"width":60,"skin":"777/Space1.png","scaleY":0.3,"scaleX":0.3,"presetID":1,"name":"noboom","isPresetRoot":true,"height":60},"compId":24,"child":[{"type":"Script","props":{"presetID":2,"runtime":"script/noboomset.ts"},"compId":29}],"loadList":["777/Space1.png"],"loadList3D":[]}

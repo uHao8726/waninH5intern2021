@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"width":60,"skin":"777/Space1.png","scaleY":0.3,"scaleX":0.3,"presetID":1,"name":"boom","isPresetRoot":true,"height":60},"compId":30,"child":[{"type":"Script","props":{"presetID":2,"runtime":"script/boomset.ts"},"compId":32}],"loadList":["777/Space1.png"],"loadList3D":[]}

@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":1280,"height":1080},"compId":2,"child":[{"type":"Script","props":{"noboom":"@Prefab:prefab/noboom.prefab","howmanyboom":5,"howmany":12,"boom":"@Prefab:prefab/boom.prefab","Sprite":"@Prefab:prefab/Sprite.prefab","runtime":"script/Mine.ts"},"compId":10}],"loadList":["prefab/noboom.prefab","prefab/boom.prefab","prefab/Sprite.prefab"],"loadList3D":[]}
