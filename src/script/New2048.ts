@@ -6,7 +6,7 @@ export default class New2048 extends Laya.Script {
 
 
     constructor() { super(); }
-
+//1233211234567
     /** @prop {name:howMany , tips:"要幾乘幾", type:Int, default:4}*/
         public howMany:number = 4
 
